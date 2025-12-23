@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=800&lines=Sabanci+University+Senior+Student;Security+Engineer+Candidate;AI-Based+Threat+Detection;Full-Stack+Developer+(Node.js+%2F+React)" alt="Typing Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=800&lines=Sabanci+University+Senior+Student;Security+Engineer+Candidate;AI-Based+Threat+Detection;Full-Stack+Developer+(Node.js+%2F+React+Java+SQL+MongoDB);Deep+Learning" alt="Typing Title" />
 </h3>
 
 ---
