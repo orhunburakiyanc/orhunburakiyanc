@@ -133,8 +133,8 @@ I am currently pivoting my engineering skills towards **Cybersecurity**, focusin
 </tr>
 </table>
 
-- **Security Tools:** Kali Linux, Wireshark, Nmap, Scapy
-- **Databases:** MongoDB, MySQL
+- **Security Tools:** Kali Linux, Wireshark, Nmap, Scapy, Burpsuite, Postman
+- **Databases:** MongoDB, MySQL, PostgreSQL, SQLite
 - **Languages:** Turkish (Native), English (Advanced), Spanish (Elementary)
 
 ---
